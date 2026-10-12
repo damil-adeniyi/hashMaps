@@ -1,14 +1,14 @@
 {
-  "name": "template",
+  "name": "hashMaps",
   "version": "1.0.0",
   "description": "quite clear from the name, its a reataurant page 🤣",
-  "homepage": "https://github.com/damil-adeniyi/template#readme",
+  "homepage": "https://github.com/damil-adeniyi/hashMaps#readme",
   "bugs": {
-    "url": "https://github.com/damil-adeniyi/template/issues"
+    "url": "https://github.com/damil-adeniyi/hashMaps/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/damil-adeniyi/template.git"
+    "url": "git+https://github.com/damil-adeniyi/hashMaps.git"
   },
   "license": "ISC",
   "author": "",
